@@ -1,0 +1,6 @@
+# NagaraLive Git Ignore
+.env
+vendor/
+.DS_Store
+Thumbs.db
+*.log
