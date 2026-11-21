@@ -5,4 +5,4 @@ Al & Bonus Architecture:
 * Google Gemini API (gemini-3.8-flash): Automatically translates
 Sinhala/Singlish notes into clear English and generates a live Community Situation Brief summarizing active hazards and neighborhood events.
 * cuCompanion ( cli.php): Allows low-bandwidth terminal queries ( php cli.php status /php cli.php brief) alongside the web dashboard.
-Al Disclosure: Google Gemini was used for development assistance, and the Gemini API (gemini-3.8-fLash) runs live inside gemini php for translation and briefing generation. Google Cloud Project Number: [YOUR PROJECT NUMBER]
+Al Disclosure: Google Gemini was used for development assistance, and the Gemini API (gemini-3.8-fLash) runs live inside gemini php for translation and briefing generation. Google Cloud Project Number: [599221554770]
